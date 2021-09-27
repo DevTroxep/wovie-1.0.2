@@ -7,4 +7,4 @@ Wovie là một CMS Pro mạnh mẽ, linh hoạt và thân thiện với ngườ
 * Thay thông tin cơ sở dữ liệu ở ```app/config/db.config.php/```
 * Import SQL: File sql nằm ở ```install/inc/db.sql```
 * Sau khi làm xong hết thì vào install check status
-* 
+
